@@ -1,0 +1,3 @@
+crewai>=0.150.0
+litellm
+python-dotenv
