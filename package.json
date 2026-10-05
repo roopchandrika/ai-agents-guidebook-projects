@@ -1,0 +1,19 @@
+{
+  "name": "content-creation-motia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Multi-agent workflow that turns any URL into X and LinkedIn posts and drafts them in Typefully",
+  "scripts": {
+    "dev": "motia dev",
+    "build": "motia build"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "motia": "0.13.0",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  }
+}

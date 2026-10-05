@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+output/
+.motia/
+dist/
+types.d.ts
+motia-workbench.json
