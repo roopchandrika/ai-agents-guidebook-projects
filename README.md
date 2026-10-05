@@ -1,6 +1,6 @@
-# AI Agents Guidebook — 12 Projects
+# AI Agents Guidebook - 12 Projects
 
-Implementations of the 12 projects in the *AI Agents* guidebook (DailyDoseofDS).
+Implementations of the 12 projects
 
 **Each project lives on its own branch** of this repository. Every branch is self-contained, with
 its own `README.md`, `requirements.txt` (or `package.json`), `.env.example` and `.gitignore`.
