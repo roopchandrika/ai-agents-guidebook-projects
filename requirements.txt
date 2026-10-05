@@ -1,0 +1,5 @@
+autogen-agentchat>=0.6.0
+autogen-ext[openai]>=0.6.0
+zep-cloud>=3.0.0
+streamlit>=1.40.0
+python-dotenv
