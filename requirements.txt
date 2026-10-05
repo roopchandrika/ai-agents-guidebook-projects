@@ -1,0 +1,4 @@
+crewai>=0.150.0
+litellm
+requests
+python-dotenv
