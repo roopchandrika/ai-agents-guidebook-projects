@@ -1,0 +1,5 @@
+crewai>=0.150.0
+litellm
+requests
+streamlit>=1.40.0
+python-dotenv
